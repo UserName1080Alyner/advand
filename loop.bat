@@ -1,2 +1,2 @@
-ngrok.exe tcp 3389
+.\ngrok\ngrok.exe tcp 3389
 loop2.bat
